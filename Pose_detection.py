@@ -7,7 +7,7 @@ poses=mp_pose.Pose()
 
 mp_draw=mp.solutions.drawing_utils
 
-vid=cv.VideoCapture("E:/Advanced OpenCV/res/vid5.mp4")
+vid=cv.VideoCapture("E:/Advanced OpenCV/res/vid1mp4")
 ptime=0
 
 while vid.isOpened():
